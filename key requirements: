@@ -1,0 +1,16 @@
+1 Data:
+Files: Ensure you have the CSV files for confirmed cases and deaths.
+
+2. Python Setup:
+Libraries: Install the required Python libraries:
+
+3. File Handling:
+File Paths: Make sure the file paths in your code match where the files are stored on your computer.
+
+Permissions: Ensure you have permission to read the data files and save the output images.
+
+4.Plotting and Visualization:
+Libraries: Use matplotlib for basic plots and seaborn for advanced visualizations.
+
+5.Output: 
+Generate a summary of results and save the processed data back to an Excel file.
